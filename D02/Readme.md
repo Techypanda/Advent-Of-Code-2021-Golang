@@ -1,4 +1,4 @@
-# Day 1
+# Day 2
 
 ## How To Run
 Modify the part to 1 or 2
