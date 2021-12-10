@@ -4,3 +4,4 @@
 - [Day 1 - Sonar Sweep](D01)
 - [Day 2 - Dive!](D02)
 - [Day 3 - Binary Diagnostic](D03)
+- [Day 4 - Giant Squid](D04)
